@@ -1,3 +1,4 @@
+![logo](https://github.com/ArqamShabir/ArqamShabir/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Arqam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -18,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arqam-king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arqam-king" height="30" width="40" /></a>
-<a href="https://github.com/ArqamShabir" target="blank"><img align="center" src="https://icons8.com/icon/3tC9EQumUAuq/github" alt="arqam-king" height="30" width="40" /></a>
+<a href="https://github.com/ArqamShabir" target="blank"><img align="center" src="https://github.com/ArqamShabir/ArqamShabir/blob/main/logo.png" alt="arqam-king" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
